@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleLoginApp</string>
+    <string name="default_web_client_id">242584647047-29jch7fjph6qafn3fdg3v1u96scfaqug.apps.googleusercontent.com</string>
+</resources>
