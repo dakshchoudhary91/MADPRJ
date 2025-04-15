@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Vibrant Color Scheme -->
+    <color name="primary_color">#FF6B00</color>         <!-- Vibrant Orange -->
+    <color name="primary_color_light">#33FF6B00</color> <!-- Light Orange (30% opacity) -->
+    <color name="primary_color_dark">#CC5200</color>    <!-- Darker Orange -->
+
+    <color name="secondary_color">#00B4D8</color>       <!-- Vibrant Teal -->
+    <color name="accent_color">#FFD166</color>          <!-- Vibrant Yellow -->
+
+    <color name="background">#F8F9FA</color>            <!-- Light Gray Background -->
+    <color name="card_background">#FFFFFF</color>       <!-- White Cards -->
+    <color name="card_stroke">#E9ECEF</color>           <!-- Very Light Gray Border -->
+
+    <color name="primary_text">#212529</color>          <!-- Dark Gray Text -->
+    <color name="secondary_text">#6C757D</color>        <!-- Medium Gray Text -->
+
+    <color name="success_green">#38B000</color>         <!-- Vibrant Green for positive results -->
+    <color name="error_red">#FF3333</color>             <!-- Vibrant Red for errors -->
+</resources>
